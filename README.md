@@ -44,6 +44,7 @@ This repository includes:
 .gitignore         → Java-specific Git ignore rules  
 README.md          → Overview and training documentation  
 
+``` 
 Branches:
   ├── Core-Java-Programming     → Core Java basics and exercises        
   ├── OOPs-Fundamentals         → Object-Oriented Programming concepts  
