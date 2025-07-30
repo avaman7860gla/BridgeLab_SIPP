@@ -33,11 +33,11 @@ This repository includes:
 
 ## 🔗 Live Branch Links
 
-- [Core-Java-Programming](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Core-Java-Programming) – Arrays, Control Flow, Extras, Java Programming Elements, Methods, and Strings  
-- [OOPs-Fundamentals](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/OOPs-Fundamentals) – Classes and Objects, Constructors, static and final keywords, Object Modeling-Class Diagram, Sequence Diagram,  Inheritance 
-- [Workshop](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Workshop) – Real-time tasks and practical exercises
-- [DSA](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/DSA) - Stack, Queue, HashMap, Hashing Functions, Searching and Sorting Algorithms, LinkedList, Time-Complexity
-- [Generics](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Generics) - Problems related to generics, Collections-(List, Map, Queue, Set and Advanced Scenerio Based Problems)
+- [Core-Java-Programming](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Core-Java-Programming) –> Arrays, Control Flow, Extras, Java Programming Elements, Methods, and Strings  
+- [OOPs-Fundamentals](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/OOPs-Fundamentals) –> Classes and Objects, Constructors, static and final keywords, Object Modeling-Class Diagram, Sequence Diagram,  Inheritance 
+- [Workshop](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Workshop) –> Real-time tasks and practical exercises
+- [DSA](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/DSA) -> Stack, Queue, HashMap, Hashing Functions, Searching and Sorting Algorithms, LinkedList, Time-Complexity
+- [Generics](https://github.com/avaman7860gla/BridgeLab_SIPP/tree/Generics) -> Problems related to generics, Collections-(List, Map, Queue, Set and Advanced Scenerio Based Problems), Java Streams-(file-handling)
 
 ---
 
