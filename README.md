@@ -2,11 +2,6 @@
 
 This repository is part of **BridgeLabz_SIPP Java Training**, designed to help participants strengthen their Java foundations and enhance their professional development through structured topics, hands-on coding exercises, and real-world projects.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue.svg" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational" />
-  <img src="https://img.shields.io/github/last-commit/ayush-gupta456/BridgeLab_SIPP_trainig" />
-</p>
 
 ---
 
